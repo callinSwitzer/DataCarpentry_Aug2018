@@ -139,7 +139,7 @@ length(heights_no_na[heights_no_na>67])
 
 
 
-#### _____ END OF INTRO TO R _________ ####
+#### _____ STARTING WITH DATA _________ ####
 
 
 
